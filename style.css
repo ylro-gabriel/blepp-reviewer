@@ -1,6 +1,7 @@
  * {
     border: 2px solid red;
  }
+ 
  .header {
     text-align: center;
  }
@@ -15,6 +16,5 @@
  }
 
  .subject-container .abpsy {
-    padding: 30px;
     background-color:#C3B1E1;
  }
