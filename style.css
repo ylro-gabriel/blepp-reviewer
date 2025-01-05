@@ -1,7 +1,11 @@
  * {
     border: 2px solid red;
  }
-
+body {
+   text-align: center;
+   background: #FFD1DC;
+   font-family: monospace;
+}
  .header {
     text-align: center;
  }
@@ -9,10 +13,20 @@
  .subject-container {
     display: flex;
     flex-wrap: wrap;
+    
+    align-items: center;
+    
  }
  .subject-item {
-    flex:auto;
+    flex: 1;
     text-align: center;
+    height: 200px;
+    min-width: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+   
  }
 
 .abpsy {
