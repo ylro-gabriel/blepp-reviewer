@@ -1,1 +1,20 @@
- 
+ * {
+    border: 2px solid red;
+ }
+ .header {
+    text-align: center;
+ }
+
+ .subject-container {
+    display: flex;
+    flex-wrap: wrap;
+ }
+ .subject-item {
+    flex:auto;
+    text-align: center;
+ }
+
+ .subject-container .abpsy {
+    padding: 30px;
+    background-color:#C3B1E1;
+ }
