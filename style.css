@@ -1,7 +1,7 @@
  * {
     border: 2px solid red;
  }
- 
+
  .header {
     text-align: center;
  }
@@ -15,6 +15,18 @@
     text-align: center;
  }
 
- .subject-container .abpsy {
-    background-color:#C3B1E1;
+.abpsy {
+    background:#C3B1E1;
+ }
+
+ .devpsy {
+    background: #77dd77;
+ }
+
+ .indus-org {
+    background: #FFC067;
+ }
+
+ .psych-ass {
+    background: #AEC6CF;
  }
